@@ -1,0 +1,9 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Baur"
+  given-names: "Carina"
+title: "markov-approximation"
+version: 1.0
+date-released: 2025-03-25
+url: "https://github.com/lsinfo3/markov-approximation"
