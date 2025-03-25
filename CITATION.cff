@@ -1,9 +1,19 @@
-cff-version: 1.0
-message: "If you use this software, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: markov-approximation
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
-- family-names: "Baur"
-  given-names: "Carina"
-title: "markov-approximation"
-version: 1.0
-date-released: 2025-03-25
-url: "https://github.com/lsinfo3/markov-approximation"
+  - family-names: Baur
+    given-names: Carina
+repository-code: 'https://github.com/lsinfo3/markov-approximation'
+keywords:
+  - Markov Model
+  - Decomposition
+  - Nearly-Completely Decomposable
+  - Approximation
+  - Resilience Modeling
+version: 1
+date-released: '2025-03-25'
